@@ -1,0 +1,191 @@
+#title
+{
+  background-color: #051367;
+}
+
+.navbar
+{
+  background-color:#051367;
+}
+
+body{
+font-family: 'PT Serif',sans-serif;
+}
+
+.cont{
+  padding: 3% 15%;
+}
+
+.navbar-brand{
+  font-family: 'Oswald',sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar-nav{
+  padding: 2rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+ font-size: 1.2rem;
+}
+
+.Get-Started-button{
+  margin: 5% 3% 5% 0;
+}
+
+.Check-out-button{
+ margin: 5% 3% 5% 0;
+}
+
+.Buy-Now-button{
+ margin: 5% 3% 5% 0;
+}
+
+.fishimg{
+  width: 80%;
+}
+
+h1
+{
+  color: #051367;
+  font-family:'PT Serif',sans-serif;
+  line-height: 2;
+  font-Size: 5rem;
+}
+
+h2,h3
+{
+  font-family: 'PT Serif',sans-serif;
+  color: #21325E;
+}
+
+p
+{
+  color: black;
+  font-family: 'Oswald',sans-serif;
+}
+
+#features{
+  margin-top: 250px;
+  background: #85F4FF;
+  margin-bottom: 260px
+}
+.fea{
+color: black;
+margin: 10px 0 0 0;
+}
+.ture{
+  color: black;
+}
+.tures{
+  padding: 100px 60px 80px 60px;
+}
+.fat{
+  color: #05595B;
+  margin-top: 70px
+}
+.fat:hover{
+  color: #062C30;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #05595B;
+  color: white;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.fishess{
+  width: 10%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.text{
+  color: white ;
+}
+
+#press{
+  background-color: #05595B;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.edi{
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+
+#pricing{
+  text-align: center;
+  padding: 8% 0;
+}
+
+.pricing-container{
+  padding: 0 7% 5%;
+}
+
+.pricings{
+  margin-bottom: 5%;
+}
+
+#cta{
+  background-color: #4B7BE5;
+  padding: 7% 15% 7% 15%;
+  text-align: center;
+}
+
+.cta-container{
+  padding-buttom: 7%;
+}
+
+  .cta-title{
+    font-size: 2.2rem;
+  }
+
+  .button5{
+    margin-right:2%;
+  }
+
+  /*footer*/
+  #footer {
+    text-align: center;
+    background: #F0F0F0;
+    padding-buttom: 3%;
+  }
+
+  .f00t{
+    padding: 5% 0 0.5% 0;
+  }
+
+  .icon{
+    color: gray;
+    margin-left: 6px;
+}
+
+@media(max-width:1028px){
+  #title{
+    text-align: center;
+  }
+
+  .fishimg{
+    width: 50%;
+    transform: rotate(25deg);
+    border-radius: 40%;
+  }
+
+  .fishess{
+    width: 10%;
+    border-radius: 25%;
+    margin: 10px;
+  }
+
+}
